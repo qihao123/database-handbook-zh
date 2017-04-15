@@ -1,2 +1,5 @@
-# database-handbook-zh
-db handbook
+# 数据库系统概论 （王珊）中文笔记
+<br>王珊的数据库系统概论（第五版）学习笔记
+<br>中国大学mooc网上有中国人民大学王珊教授等的数据库系统概论课程
+<br>传送门：http://www.icourse163.org/course/RUC-488001
+<br>有兴趣的同学可以去看一下
